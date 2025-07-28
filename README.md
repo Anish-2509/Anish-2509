@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Anish-2509/Anish-2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-2509)](https://github.com/Anish-2509/github-readme-stats)
+
+ 
